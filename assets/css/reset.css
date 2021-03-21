@@ -1,0 +1,16 @@
+*{
+    margin-left: 0em;
+    margin-top: 0em;
+    margin-right: 0em;
+}
+
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+} 
+
+html,body{
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+} 
+
