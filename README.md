@@ -1,7 +1,7 @@
  <h1 align="center">GoodRecipes </h1>
  
  ## Descrição do Projeto
-<p align="center">O projeto consiste em uma aplicação com recursos de filtragem e sugestão de receitas, consumindo dados no formato json da API <a href="https://www.themealdb.com/">TheMealDB</a>.</p>
+<p align="center">O projeto consiste em uma aplicação com recursos de filtragem e sugestão de receitas, consumindo dados no formato JSON da API <a href="https://www.themealdb.com/">TheMealDB</a>.</p>
 
 <h2 align="center">
   <img alt="imagem Aplicação" title="#GoodRecipes" src='Screenshots\img1.PNG' />
