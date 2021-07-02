@@ -10,7 +10,7 @@
   <img alt="imagem Aplicação" title="#GoodRecipes" src='Screenshots\img2.PNG'  />
 </h2>
 
-## <center> Instalção </center>
+## <center> Instalação </center>
 Antes de começar é necessário preparar o ambiente para o PHP com um software como o [XAMPP](https://www.apachefriends.org/pt_br/index.html) e o  [GIT](https://git-scm.com/) também é necessário. 
 
 ```bash
