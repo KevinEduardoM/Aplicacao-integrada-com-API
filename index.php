@@ -64,7 +64,7 @@
     </div>
 
     <div class="intro">
-     <p>Anda ná duvida de qual prato fazer!? Confira nossas sugestões</p>
+     <p>Ainda ná duvida de qual prato fazer!? Confira nossas sugestões</p>
     </div>
   
     <div class="destaque">
